@@ -10,27 +10,20 @@ namespace PlantillaAprendizaje
     {
         static void Main(string[] args)
         {
-            int aprobados=0, noAprobados=0;
-            Console.WriteLine("¿Cuantas notas desea ingresar?");
-            int cantidadNotas=int.Parse(Console.ReadLine());
+            double sumAltura=0, promAltura;
+            Console.WriteLine("¿Cuantas alturas desea ingresar?");
+            int cantAlturas= int.Parse(Console.ReadLine());
 
-            for(int i=0; i<cantidadNotas; i++)
+            for(int i=0; i<cantAlturas; i++)
             {
-                Console.WriteLine($"Ingrese la nota {i+1}: ");
-                double nota=double.Parse(Console.ReadLine());
-
-            if (nota >= 7)
-                {
-                    aprobados++;
-                }
-            else
-                {
-                    noAprobados++;
-                }
+                Console.WriteLine($"Ingrese la altura {i+1}: ");
+                double altura=double.Parse(Console.ReadLine());
+                sumAltura += altura;                
             }
-            Console.WriteLine("La cantidad de notas mayores a 7 es: {0}", aprobados);
-            Console.WriteLine("La cantidad de notas menores a 7 es: {0}", noAprobados);
-            Console.ReadLine();
+            promAltura = sumAltura / cantAlturas;
+            Console.WriteLine($"El promedio de altura de las personas censadas es: {promAltura}");
+            Console. ReadLine();
         }
+            
     }
 }
