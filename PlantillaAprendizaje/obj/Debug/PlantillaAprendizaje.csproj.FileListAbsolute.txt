@@ -1,0 +1,7 @@
+C:\Users\Johan_Aristizabal\OneDrive - SATRACK\Documentos\1. Johan Aristizábal Tirado\4. Aprendizaje (PC)\1. C#\PlantillaAprendizaje\PlantillaAprendizaje\bin\Debug\PlantillaAprendizaje.exe.config
+C:\Users\Johan_Aristizabal\OneDrive - SATRACK\Documentos\1. Johan Aristizábal Tirado\4. Aprendizaje (PC)\1. C#\PlantillaAprendizaje\PlantillaAprendizaje\bin\Debug\PlantillaAprendizaje.exe
+C:\Users\Johan_Aristizabal\OneDrive - SATRACK\Documentos\1. Johan Aristizábal Tirado\4. Aprendizaje (PC)\1. C#\PlantillaAprendizaje\PlantillaAprendizaje\bin\Debug\PlantillaAprendizaje.pdb
+C:\Users\Johan_Aristizabal\OneDrive - SATRACK\Documentos\1. Johan Aristizábal Tirado\4. Aprendizaje (PC)\1. C#\PlantillaAprendizaje\PlantillaAprendizaje\obj\Debug\PlantillaAprendizaje.csproj.AssemblyReference.cache
+C:\Users\Johan_Aristizabal\OneDrive - SATRACK\Documentos\1. Johan Aristizábal Tirado\4. Aprendizaje (PC)\1. C#\PlantillaAprendizaje\PlantillaAprendizaje\obj\Debug\PlantillaAprendizaje.csproj.CoreCompileInputs.cache
+C:\Users\Johan_Aristizabal\OneDrive - SATRACK\Documentos\1. Johan Aristizábal Tirado\4. Aprendizaje (PC)\1. C#\PlantillaAprendizaje\PlantillaAprendizaje\obj\Debug\PlantillaAprendizaje.exe
+C:\Users\Johan_Aristizabal\OneDrive - SATRACK\Documentos\1. Johan Aristizábal Tirado\4. Aprendizaje (PC)\1. C#\PlantillaAprendizaje\PlantillaAprendizaje\obj\Debug\PlantillaAprendizaje.pdb
