@@ -5,3 +5,10 @@ C:\Users\Johan_Aristizabal\OneDrive - SATRACK\Documentos\1. Johan Aristizábal T
 C:\Users\Johan_Aristizabal\OneDrive - SATRACK\Documentos\1. Johan Aristizábal Tirado\4. Aprendizaje (PC)\1. C#\PlantillaAprendizaje\PlantillaAprendizaje\obj\Debug\PlantillaAprendizaje.csproj.CoreCompileInputs.cache
 C:\Users\Johan_Aristizabal\OneDrive - SATRACK\Documentos\1. Johan Aristizábal Tirado\4. Aprendizaje (PC)\1. C#\PlantillaAprendizaje\PlantillaAprendizaje\obj\Debug\PlantillaAprendizaje.exe
 C:\Users\Johan_Aristizabal\OneDrive - SATRACK\Documentos\1. Johan Aristizábal Tirado\4. Aprendizaje (PC)\1. C#\PlantillaAprendizaje\PlantillaAprendizaje\obj\Debug\PlantillaAprendizaje.pdb
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\1. C#\Personal\PlantillaAprendizaje\bin\Debug\PlantillaAprendizaje.exe.config
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\1. C#\Personal\PlantillaAprendizaje\bin\Debug\PlantillaAprendizaje.exe
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\1. C#\Personal\PlantillaAprendizaje\bin\Debug\PlantillaAprendizaje.pdb
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\1. C#\Personal\PlantillaAprendizaje\obj\Debug\PlantillaAprendizaje.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\1. C#\Personal\PlantillaAprendizaje\obj\Debug\PlantillaAprendizaje.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\1. C#\Personal\PlantillaAprendizaje\obj\Debug\PlantillaAprendizaje.exe
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\1. C#\Personal\PlantillaAprendizaje\obj\Debug\PlantillaAprendizaje.pdb

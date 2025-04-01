@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Johan_Aristizabal\\OneDrive - SATRACK\\Documentos\\1. Johan Aristiz\u00E1bal Tirado\\4. Aprendizaje (PC)\\1. C#\\PlantillaAprendizaje\\",
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\1. C#\\Personal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7A8885F-1A4B-4A62-8CFF-94915724936C}|PlantillaAprendizaje\\PlantillaAprendizaje.csproj|c:\\users\\johan_aristizabal\\onedrive - satrack\\documentos\\1. johan aristiz\u00E1bal tirado\\4. aprendizaje (pc)\\1. c#\\plantillaaprendizaje\\plantillaaprendizaje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7A8885F-1A4B-4A62-8CFF-94915724936C}|PlantillaAprendizaje\\PlantillaAprendizaje.csproj|c:\\users\\usuario\\onedrive\\documentos\\1. personales\\1. c#\\personal\\plantillaaprendizaje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7A8885F-1A4B-4A62-8CFF-94915724936C}|PlantillaAprendizaje\\PlantillaAprendizaje.csproj|solutionrelative:plantillaaprendizaje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Johan_Aristizabal\\OneDrive - SATRACK\\Documentos\\1. Johan Aristiz\u00E1bal Tirado\\4. Aprendizaje (PC)\\1. C#\\PlantillaAprendizaje\\PlantillaAprendizaje\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\1. C#\\Personal\\PlantillaAprendizaje\\Program.cs",
               "RelativeDocumentMoniker": "PlantillaAprendizaje\\Program.cs",
-              "ToolTip": "C:\\Users\\Johan_Aristizabal\\OneDrive - SATRACK\\Documentos\\1. Johan Aristiz\u00E1bal Tirado\\4. Aprendizaje (PC)\\1. C#\\PlantillaAprendizaje\\PlantillaAprendizaje\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\1. C#\\Personal\\PlantillaAprendizaje\\Program.cs",
               "RelativeToolTip": "PlantillaAprendizaje\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T15:31:24.336Z",
               "EditorCaption": ""
