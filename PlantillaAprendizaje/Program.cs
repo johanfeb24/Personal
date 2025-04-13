@@ -10,18 +10,18 @@ namespace PlantillaAprendizaje
     {
         static void Main(string[] args)
         {
-            double area, perimetro;
+            Console.WriteLine("Ingrese la coordenada X1: ");
+            double X1= double.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese la coordenada Y1: ");
+            double Y1 = double.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese la corrdenada X2: ");
+            double X2 = double.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese la corrdenada Y2: ");
+            double Y2 = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Por favor digite la base del rectangulo: ");
-            double b = double.Parse(Console.ReadLine());
+            double distancia = Math.Sqrt(Math.Pow(X2-X1, 2) + Math.Pow(Y2-Y1, 2));
 
-            Console.WriteLine("Por favor digite la altura del rectangulo: ");
-            double h=double.Parse(Console.ReadLine());
-
-            area = b * h;
-            perimetro = 2 * (b + h);
-
-            Console.WriteLine("El area del rectangulo es: {0} cm² y el perimetro es: {1} cm", area,perimetro); //Para agregar el cuadrado oprimimos ALT + 253
+            Console.WriteLine($"La distancia entre los dos puntos es: {distancia:F2}");
             Console.ReadLine();
         }
     }
