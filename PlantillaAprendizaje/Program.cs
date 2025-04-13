@@ -11,35 +11,24 @@ namespace PlantillaAprendizaje
         static void Main(string[] args)
         {
 
-            double sumLista1=0, sumLista2=0;
+            int pares=0, impares=0;
+
+            Console.WriteLine("¿Cuantos numeros desea ingresar?");
+            int cantidadNumeros=int.Parse(Console.ReadLine());
             
-            for (int i = 0; i < 2; i++)
+            for (int i = 0; i < cantidadNumeros; i++)
             {
-                Console.WriteLine($"Ingrese por favor el dato {i+1} de la Lista # 1: ");
-                int lista1=int.Parse( Console.ReadLine());
-                sumLista1 += lista1;
-            }
-            for (int j = 0; j < 2; j++)
-            {
-                Console.WriteLine($"Ingrese por favor el dato {j + 1} de la Lista # 2: ");
-                int lista2 = int.Parse(Console.ReadLine());
-                sumLista2 += lista2;
-            }
-            if (sumLista1 > sumLista2)
-            {
-                Console.WriteLine("La lista 1 tiene mayor acumulado: {0}", sumLista1);
-            }
-            else
-            {
-                if (sumLista1 < sumLista2)
+                Console.WriteLine($"Ingrese por favor el dato {i+1}: ");
+                int numero=int.Parse( Console.ReadLine());
+
+                if (numero % 2 == 0)
                 {
-                    Console.WriteLine("La lista  2 tiene mayor acumulado: {0}", sumLista2);
+                    pares++;
                 }
-                else
-                {
-                    { Console.WriteLine("Las listas son iguales"); }
-                }
+                else {impares++;}                
             }
+            Console.WriteLine("La cantidad de numeros pares es: {0}", pares);
+            Console.WriteLine("La cantidad de numeros impares es: {0}", impares);
             Console.ReadLine();
         }
     }
