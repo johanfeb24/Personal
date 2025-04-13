@@ -10,25 +10,18 @@ namespace PlantillaAprendizaje
     {
         static void Main(string[] args)
         {
+            double area, perimetro;
 
-            int pares=0, impares=0;
+            Console.WriteLine("Por favor digite la base del rectangulo: ");
+            double b = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("¿Cuantos numeros desea ingresar?");
-            int cantidadNumeros=int.Parse(Console.ReadLine());
-            
-            for (int i = 0; i < cantidadNumeros; i++)
-            {
-                Console.WriteLine($"Ingrese por favor el dato {i+1}: ");
-                int numero=int.Parse( Console.ReadLine());
+            Console.WriteLine("Por favor digite la altura del rectangulo: ");
+            double h=double.Parse(Console.ReadLine());
 
-                if (numero % 2 == 0)
-                {
-                    pares++;
-                }
-                else {impares++;}                
-            }
-            Console.WriteLine("La cantidad de numeros pares es: {0}", pares);
-            Console.WriteLine("La cantidad de numeros impares es: {0}", impares);
+            area = b * h;
+            perimetro = 2 * (b + h);
+
+            Console.WriteLine("El area del rectangulo es: {0} cm² y el perimetro es: {1} cm", area,perimetro); //Para agregar el cuadrado oprimimos ALT + 253
             Console.ReadLine();
         }
     }
