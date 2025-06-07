@@ -12,3 +12,4 @@ C:\Users\USUARIO\OneDrive\Documentos\1. Personales\1. C#\Personal\PlantillaApren
 C:\Users\USUARIO\OneDrive\Documentos\1. Personales\1. C#\Personal\PlantillaAprendizaje\obj\Debug\PlantillaAprendizaje.csproj.CoreCompileInputs.cache
 C:\Users\USUARIO\OneDrive\Documentos\1. Personales\1. C#\Personal\PlantillaAprendizaje\obj\Debug\PlantillaAprendizaje.exe
 C:\Users\USUARIO\OneDrive\Documentos\1. Personales\1. C#\Personal\PlantillaAprendizaje\obj\Debug\PlantillaAprendizaje.pdb
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\1. C#\Personal\PlantillaAprendizaje\obj\Debug\PlantillaAprendizaje.exe.config

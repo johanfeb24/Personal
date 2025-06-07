@@ -10,18 +10,17 @@ namespace PlantillaAprendizaje
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ingrese la coordenada X1: ");
-            double X1= double.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese la coordenada Y1: ");
-            double Y1 = double.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese la corrdenada X2: ");
-            double X2 = double.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese la corrdenada Y2: ");
-            double Y2 = double.Parse(Console.ReadLine());
+            double valorFinal;
 
-            double distancia = Math.Sqrt(Math.Pow(X2-X1, 2) + Math.Pow(Y2-Y1, 2));
+            Console.WriteLine("Por favor indique la cantidad de dinero: ");
+            double dinero=double.Parse(Console.ReadLine());
 
-            Console.WriteLine($"La distancia entre los dos puntos es: {distancia:F2}");
+            Console.WriteLine("Cual es el porcentaje que desea aplicar: ");
+            double porcentaje=double.Parse(Console.ReadLine());
+
+            valorFinal = porcentaje / 100 * (dinero);
+
+            Console.WriteLine("El {0}%  de {1} es {2}", porcentaje,dinero,valorFinal);
             Console.ReadLine();
         }
     }
