@@ -10,19 +10,20 @@ namespace PlantillaAprendizaje
     {
         static void Main(string[] args)
         {
-            double valorFinal;
+            Console.WriteLine("Indique el precio de la tonelada: ");
+            double tonelada = double.Parse(Console.ReadLine());
+            Console.WriteLine("Indica la cantidad de kilogramos a comprar: ");
+            double kilogramo = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Por favor indique la cantidad de dinero: ");
-            double dinero=double.Parse(Console.ReadLine());
+            double total = Toneladas(tonelada, kilogramo);
 
-            Console.WriteLine("Cual es el porcentaje que desea aplicar: ");
-            double porcentaje=double.Parse(Console.ReadLine());
-
-            valorFinal = porcentaje / 100 * (dinero);
-
-            Console.WriteLine("El {0}%  de {1} es {2}", porcentaje,dinero,valorFinal);
-            Console.ReadLine();
+            Console.WriteLine("El total a pagar es {0}", total);
         }
+        static double Toneladas(double tonelada, double kilogramos)
+        {
+            double precioKilogramo = tonelada / 1000;
+            return precioKilogramo * kilogramos;
+        }            
     }
 }
 
